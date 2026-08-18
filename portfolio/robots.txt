@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace the host below after connecting a permanent custom domain.
+Sitemap: https://example.com/sitemap.xml
