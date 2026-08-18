@@ -1,0 +1,17 @@
+{
+  "name": "Dev Rai",
+  "headline": "Writer, Researcher, Builder",
+  "location": "Virginia, United States",
+  "school": "Oakton High School",
+  "classYear": 2027,
+  "focus": ["quantitative finance","tail-risk modeling","spatial modeling","AI ethics","financial literacy","creative technology","social entrepreneurship","writing"],
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/dev-rai-948bb32a9",
+    "github": "https://github.com/pugwai-pie",
+    "orcid": "https://orcid.org/0009-0008-7378-6282",
+    "youngarts": "https://youngarts.org/blog/winner/dev-rai/",
+    "pulitzerCenter": "https://pulitzercenter.org/what-pink-balloon-knows"
+  },
+  "projects": ["Serving Society Global Foundation","TAYU Financial Literacy","The Cash Classroom","The Seed That Grew","ClearCycle","Ocean Energy Dynamics"],
+  "research": [{"title":"Quantifying the Tail Risk Miscalibration of Geometric Brownian Motion: A Cross-Sectional Empirical Study via the Tail Coverage Ratio","url":"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7157698"}]
+}
